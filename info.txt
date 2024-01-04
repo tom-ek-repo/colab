@@ -1,5 +1,10 @@
-git init
-git add .
-git commit -m "message"
-git remote add origin "github.com/your_repo.git"
-git push -u origin master
+ Na bazie danych recenzji z Yelp_review
+  
+ (zalaczony kod ma wylaczony jeden tokenizer, ktory przelicza sie ok1,5h)
+ 
+ Zawiera:
+     rekurencyjnej  
+     podstawowy pre-trained word embeddingów
+     fine-tuningiem modelu języka - model Roberts (zamiast BERTa)
+
+	 
